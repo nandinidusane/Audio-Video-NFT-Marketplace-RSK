@@ -10,7 +10,7 @@ const App = () => {
   const [account, setAccount] = useState();
   useEffect(()=>{
     const connectWallet = async(e)=>{
-      const contractAddress = "0x738a3347321D341Aad1e8426814F9419c8CD9357";
+      const contractAddress = "0xF5CD1e2e802aA2fd3A6f02ACf8Cf383d8E0D3698";
       const contractABI =abi.abi;
     try{
       const {ethereum} = window;

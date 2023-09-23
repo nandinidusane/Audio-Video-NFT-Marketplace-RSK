@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ICP/static/css/main.23fa485c.css",
-    "main.js": "/ICP/static/js/main.b6321f14.js",
-    "static/js/787.ce3eb496.chunk.js": "/ICP/static/js/787.ce3eb496.chunk.js",
-    "index.html": "/ICP/index.html",
-    "main.23fa485c.css.map": "/ICP/static/css/main.23fa485c.css.map",
-    "main.b6321f14.js.map": "/ICP/static/js/main.b6321f14.js.map",
-    "787.ce3eb496.chunk.js.map": "/ICP/static/js/787.ce3eb496.chunk.js.map"
+    "main.css": "/Video-Compatible-NFT-Marketplace/static/css/main.8faf83df.css",
+    "main.js": "/Video-Compatible-NFT-Marketplace/static/js/main.d67bd5ae.js",
+    "static/js/787.ce3eb496.chunk.js": "/Video-Compatible-NFT-Marketplace/static/js/787.ce3eb496.chunk.js",
+    "index.html": "/Video-Compatible-NFT-Marketplace/index.html",
+    "main.8faf83df.css.map": "/Video-Compatible-NFT-Marketplace/static/css/main.8faf83df.css.map",
+    "main.d67bd5ae.js.map": "/Video-Compatible-NFT-Marketplace/static/js/main.d67bd5ae.js.map",
+    "787.ce3eb496.chunk.js.map": "/Video-Compatible-NFT-Marketplace/static/js/787.ce3eb496.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23fa485c.css",
-    "static/js/main.b6321f14.js"
+    "static/css/main.8faf83df.css",
+    "static/js/main.d67bd5ae.js"
   ]
 }
