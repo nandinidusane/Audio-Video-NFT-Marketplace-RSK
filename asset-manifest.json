@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Audio-Video-NFT-Marketplace-RSK/static/css/main.8faf83df.css",
+    "main.js": "/Audio-Video-NFT-Marketplace-RSK/static/js/main.dd9b0bfc.js",
+    "static/js/787.ce3eb496.chunk.js": "/Audio-Video-NFT-Marketplace-RSK/static/js/787.ce3eb496.chunk.js",
+    "index.html": "/Audio-Video-NFT-Marketplace-RSK/index.html",
+    "main.8faf83df.css.map": "/Audio-Video-NFT-Marketplace-RSK/static/css/main.8faf83df.css.map",
+    "main.dd9b0bfc.js.map": "/Audio-Video-NFT-Marketplace-RSK/static/js/main.dd9b0bfc.js.map",
+    "787.ce3eb496.chunk.js.map": "/Audio-Video-NFT-Marketplace-RSK/static/js/787.ce3eb496.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8faf83df.css",
+    "static/js/main.dd9b0bfc.js"
+  ]
+}
